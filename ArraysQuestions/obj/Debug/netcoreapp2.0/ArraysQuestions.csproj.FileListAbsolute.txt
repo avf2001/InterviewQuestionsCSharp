@@ -1,0 +1,9 @@
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/ArraysQuestions/bin/Debug/netcoreapp2.0/ArraysQuestions.deps.json
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/ArraysQuestions/bin/Debug/netcoreapp2.0/ArraysQuestions.dll
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/ArraysQuestions/bin/Debug/netcoreapp2.0/ArraysQuestions.pdb
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/ArraysQuestions/obj/Debug/netcoreapp2.0/ArraysQuestions.csprojResolveAssemblyReference.cache
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/ArraysQuestions/obj/Debug/netcoreapp2.0/ArraysQuestions.csproj.CoreCompileInputs.cache
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/ArraysQuestions/obj/Debug/netcoreapp2.0/ArraysQuestions.AssemblyInfoInputs.cache
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/ArraysQuestions/obj/Debug/netcoreapp2.0/ArraysQuestions.AssemblyInfo.cs
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/ArraysQuestions/obj/Debug/netcoreapp2.0/ArraysQuestions.dll
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/ArraysQuestions/obj/Debug/netcoreapp2.0/ArraysQuestions.pdb

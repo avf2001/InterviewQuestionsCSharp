@@ -1,0 +1,13 @@
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/RunningApp/bin/Debug/netcoreapp2.0/RunningApp.deps.json
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/RunningApp/bin/Debug/netcoreapp2.0/RunningApp.runtimeconfig.json
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/RunningApp/bin/Debug/netcoreapp2.0/RunningApp.runtimeconfig.dev.json
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/RunningApp/bin/Debug/netcoreapp2.0/RunningApp.dll
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/RunningApp/bin/Debug/netcoreapp2.0/RunningApp.pdb
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/RunningApp/bin/Debug/netcoreapp2.0/ArraysQuestions.dll
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/RunningApp/bin/Debug/netcoreapp2.0/ArraysQuestions.pdb
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/RunningApp/obj/Debug/netcoreapp2.0/RunningApp.csprojResolveAssemblyReference.cache
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/RunningApp/obj/Debug/netcoreapp2.0/RunningApp.csproj.CoreCompileInputs.cache
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/RunningApp/obj/Debug/netcoreapp2.0/RunningApp.AssemblyInfoInputs.cache
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/RunningApp/obj/Debug/netcoreapp2.0/RunningApp.AssemblyInfo.cs
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/RunningApp/obj/Debug/netcoreapp2.0/RunningApp.dll
+/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/RunningApp/obj/Debug/netcoreapp2.0/RunningApp.pdb
