@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{BFF26319-0E81-48CC-B380-EB36AC37ACB4}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ArraysQuestions/Task01.cs">
     <Files>
-      <File FileName="RunningApp/Program.cs" Line="1" Column="1" />
-      <File FileName="ArraysQuestions/Task01.cs" Line="11" Column="1" />
+      <File FileName="RunningApp/Program.cs" Line="11" Column="49" />
+      <File FileName="ArraysQuestions/Task01.cs" Line="10" Column="89" />
+      <File FileName="ArraysQuestions/Task02.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

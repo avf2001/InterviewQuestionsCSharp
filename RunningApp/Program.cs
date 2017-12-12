@@ -8,9 +8,13 @@ namespace RunningApp
         {
             int[] arr = { 6, 4, 1, 4, 3, 2, 5, 2, 1 };
 
+            /*
             ArraysQuestions.Task01.Display(arr);
             ArraysQuestions.Task01.Do(arr);
             ArraysQuestions.Task01.Display(arr);
+            */
+
+            var task02Result = ArraysQuestions.Task02.Do(arr);
         }
     }
 }
