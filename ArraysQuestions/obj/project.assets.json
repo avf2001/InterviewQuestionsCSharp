@@ -664,28 +664,36 @@
     ]
   },
   "packageFolders": {
-    "/Users/Alexander/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Alexander\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/ArraysQuestions/ArraysQuestions.csproj",
+      "projectUniqueName": "C:\\Users\\Alexander\\Documents\\GitHub\\InterviewQuestionsCSharp\\ArraysQuestions\\ArraysQuestions.csproj",
       "projectName": "ArraysQuestions",
-      "projectPath": "/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/ArraysQuestions/ArraysQuestions.csproj",
-      "packagesPath": "/Users/Alexander/.nuget/packages/",
-      "outputPath": "/Users/Alexander/Documents/GitHub/InterviewQuestionsCSharp/ArraysQuestions/obj",
+      "projectPath": "C:\\Users\\Alexander\\Documents\\GitHub\\InterviewQuestionsCSharp\\ArraysQuestions\\ArraysQuestions.csproj",
+      "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alexander\\Documents\\GitHub\\InterviewQuestionsCSharp\\ArraysQuestions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/Alexander/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Alexander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -705,7 +713,7 @@
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },

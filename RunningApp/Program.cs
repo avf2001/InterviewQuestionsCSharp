@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SortingAlgorithms;
+using System;
 
 namespace RunningApp
 {
@@ -14,7 +15,13 @@ namespace RunningApp
             ArraysQuestions.Task01.Display(arr);
             */
 
-            var task02Result = ArraysQuestions.Task02.Do(arr);
+            //var task02Result = ArraysQuestions.Task02.Do(arr);
+
+            #region Sorting Algorithms
+
+            BubbleSort.Do(arr);
+
+            #endregion
         }
     }
 }
