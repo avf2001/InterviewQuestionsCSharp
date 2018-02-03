@@ -19,7 +19,7 @@ namespace RunningApp
 
             #region Sorting Algorithms
 
-            BubbleSort.Do(arr);
+            BubbleSort.Do1(arr);
 
             #endregion
         }

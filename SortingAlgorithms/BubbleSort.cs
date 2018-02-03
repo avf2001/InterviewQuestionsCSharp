@@ -1,21 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace SortingAlgorithms
+﻿namespace SortingAlgorithms
 {
     public class BubbleSort
     {
-        public static void Do(int[] array)
+        public static void Do1(int[] array)
         {
-            var n = array.Length;
             var swapped = false;
 
             do
             {
                 swapped = false;
 
-                for (var i = 1; i < n; i++)
+                for (var i = 1; i < array.Length; i++)
                 {
                     if (array[i - 1] > array[i])
                     {
