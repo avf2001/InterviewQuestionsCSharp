@@ -19,7 +19,11 @@ namespace RunningApp
 
             #region Sorting Algorithms
 
-            BubbleSort.Do1(arr);
+            // Bubble Sort
+            //BubbleSort.Do1(arr);
+
+            // Insertion Sort
+            InsertionSort.Do(arr);
 
             #endregion
         }
