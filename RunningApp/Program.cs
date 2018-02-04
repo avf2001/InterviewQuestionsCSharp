@@ -23,7 +23,10 @@ namespace RunningApp
             //BubbleSort.Do1(arr);
 
             // Insertion Sort
-            InsertionSort.Do(arr);
+            //InsertionSort.Do(arr);
+
+            // Counting Sort
+            CountingSort.Do(ref arr);
 
             #endregion
         }
