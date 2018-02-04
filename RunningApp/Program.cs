@@ -15,7 +15,7 @@ namespace RunningApp
             ArraysQuestions.Task01.Display(arr);
             */
 
-            //var task02Result = ArraysQuestions.Task02.Do(arr);
+            var task02Result = ArraysQuestions.Task02TwoSum.Do(arr, 11);
 
             #region Sorting Algorithms
 
@@ -26,7 +26,7 @@ namespace RunningApp
             //InsertionSort.Do(arr);
 
             // Counting Sort
-            CountingSort.Do(ref arr);
+            //CountingSort.Do(ref arr);
 
             #endregion
         }
