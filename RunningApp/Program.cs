@@ -19,7 +19,11 @@ namespace RunningApp
             //var task02Result = ArraysQuestions.Task02TwoSum.Do(arr, 11);
 
             // Container With Most Water
-            var task03Result = ArraysQuestions.Task03ContainerWithMostWater.Do(arr);
+            //var task03Result = ArraysQuestions.Task03ContainerWithMostWater.Do(arr);
+
+            // Remove Duplicates from Sorted Array
+            int[] task04Array = { 1, 1, 2, 2, 2, 3, 4, 5, 5, 6, 6, 6, 6 };
+            var newSize = ArraysQuestions.Task04RemoveDuplicatesFromSortedArray.Do(task04Array);
 
             #region Sorting Algorithms
 
