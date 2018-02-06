@@ -22,8 +22,12 @@ namespace RunningApp
             //var task03Result = ArraysQuestions.Task03ContainerWithMostWater.Do(arr);
 
             // Remove Duplicates from Sorted Array
-            int[] task04Array = { 1, 1, 2, 2, 2, 3, 4, 5, 5, 6, 6, 6, 6 };
-            var newSize = ArraysQuestions.Task04RemoveDuplicatesFromSortedArray.Do(task04Array);
+            //int[] task04Array = { 1, 1, 2, 2, 2, 3, 4, 5, 5, 6, 6, 6, 6 };
+            //var newSize = ArraysQuestions.Task04RemoveDuplicatesFromSortedArray.Do(task04Array);
+
+            // Remove Element
+            int[] task05Array = { 3, 2, 2, 3 };
+            var task05NewSize = ArraysQuestions.Task05RemoveElement.Do(task05Array, 3);
 
             #region Sorting Algorithms
 
