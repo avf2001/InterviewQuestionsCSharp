@@ -1,0 +1,16 @@
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\ArrayQuestionsUnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\ArrayQuestionsUnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\ArrayQuestionsUnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\ArrayQuestionsUnitTests\bin\Debug\netcoreapp2.0\ArrayQuestionsUnitTests.deps.json
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\ArrayQuestionsUnitTests\bin\Debug\netcoreapp2.0\ArrayQuestionsUnitTests.runtimeconfig.json
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\ArrayQuestionsUnitTests\bin\Debug\netcoreapp2.0\ArrayQuestionsUnitTests.runtimeconfig.dev.json
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\ArrayQuestionsUnitTests\bin\Debug\netcoreapp2.0\ArrayQuestionsUnitTests.dll
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\ArrayQuestionsUnitTests\bin\Debug\netcoreapp2.0\ArrayQuestionsUnitTests.pdb
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\ArrayQuestionsUnitTests\obj\Debug\netcoreapp2.0\ArrayQuestionsUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\ArrayQuestionsUnitTests\obj\Debug\netcoreapp2.0\ArrayQuestionsUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\ArrayQuestionsUnitTests\obj\Debug\netcoreapp2.0\ArrayQuestionsUnitTests.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\ArrayQuestionsUnitTests\obj\Debug\netcoreapp2.0\ArrayQuestionsUnitTests.AssemblyInfo.cs
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\ArrayQuestionsUnitTests\obj\Debug\netcoreapp2.0\ArrayQuestionsUnitTests.dll
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\ArrayQuestionsUnitTests\obj\Debug\netcoreapp2.0\ArrayQuestionsUnitTests.pdb
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\ArrayQuestionsUnitTests\bin\Debug\netcoreapp2.0\ArraysQuestions.dll
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\ArrayQuestionsUnitTests\bin\Debug\netcoreapp2.0\ArraysQuestions.pdb

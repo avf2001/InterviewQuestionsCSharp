@@ -26,8 +26,11 @@ namespace RunningApp
             //var newSize = ArraysQuestions.Task04RemoveDuplicatesFromSortedArray.Do(task04Array);
 
             // Remove Element
-            int[] task05Array = { 3, 2, 2, 3 };
-            var task05NewSize = ArraysQuestions.Task05RemoveElement.Do(task05Array, 3);
+            //int[] task05Array = { 3, 2, 2, 3 };
+            //var task05NewSize = ArraysQuestions.Task05RemoveElement.Do(task05Array, 3);
+
+            // Search Insert Position
+            var task06Result = ArraysQuestions.Task06SearchInsertPosition.Do(new int[] { 1 }, 1);
 
             #region Sorting Algorithms
 

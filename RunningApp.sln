@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunningApp", "RunningApp\Ru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysQuestions", "ArraysQuestions\ArraysQuestions.csproj", "{8BE32494-C956-48FE-A8E9-4DF3ABE39450}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgorithms", "SortingAlgorithms\SortingAlgorithms.csproj", "{AB69774A-56B7-42A6-8691-6C90A252BE3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortingAlgorithms", "SortingAlgorithms\SortingAlgorithms.csproj", "{AB69774A-56B7-42A6-8691-6C90A252BE3E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", "{B0FD68B3-EB64-409F-89E1-C72709560FB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayQuestionsUnitTests", "ArrayQuestionsUnitTests\ArrayQuestionsUnitTests.csproj", "{028CC509-375E-4E20-9891-5A501F1CBADC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{AB69774A-56B7-42A6-8691-6C90A252BE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB69774A-56B7-42A6-8691-6C90A252BE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB69774A-56B7-42A6-8691-6C90A252BE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{028CC509-375E-4E20-9891-5A501F1CBADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028CC509-375E-4E20-9891-5A501F1CBADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028CC509-375E-4E20-9891-5A501F1CBADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028CC509-375E-4E20-9891-5A501F1CBADC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
