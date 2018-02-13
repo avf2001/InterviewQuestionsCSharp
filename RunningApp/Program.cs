@@ -30,7 +30,10 @@ namespace RunningApp
             //var task05NewSize = ArraysQuestions.Task05RemoveElement.Do(task05Array, 3);
 
             // Search Insert Position
-            var task06Result = ArraysQuestions.Task06SearchInsertPosition.Do(new int[] { 1 }, 1);
+            //var task06Result = ArraysQuestions.Task06SearchInsertPosition.Do(new int[] { 1 }, 1);
+
+            // Plus One
+            var task08Result = ArraysQuestions.Task08PlusOne.Do(new int[] { 9, 8, 9 });
 
             #region Sorting Algorithms
 
