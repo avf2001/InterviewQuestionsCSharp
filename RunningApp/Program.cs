@@ -33,7 +33,26 @@ namespace RunningApp
             //var task06Result = ArraysQuestions.Task06SearchInsertPosition.Do(new int[] { 1 }, 1);
 
             // Plus One
-            var task08Result = ArraysQuestions.Task08PlusOne.Do(new int[] { 9, 8, 9 });
+            //var task08Result = ArraysQuestions.Task08PlusOne.Do(new int[] { 9, 8, 9 });
+
+            // Pascal's Triangle
+            var task10Result = ArraysQuestions.Task10PascalsTriangle.Do(0);
+
+            foreach (var a in task10Result)
+            {
+                Console.Write("[");
+
+                var separator = "";
+
+                foreach (var b in a)
+                {
+                    Console.Write(separator + b);
+
+                    separator = ", ";
+                }
+
+                Console.WriteLine("]");
+            }
 
             #region Sorting Algorithms
 
