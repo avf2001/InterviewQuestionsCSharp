@@ -60,6 +60,13 @@ namespace RunningApp
             // Pascal's Triangle 2
             var task11Result = ArraysQuestions.Task11PascalsTriangle2.Do(4);
 
+            // Best Time to Buy and Sell Stock
+            var task12Result = ArraysQuestions.Task12BestTimeToBuyAndSellStock.Do(new int[] { 7, 1, 5, 3, 6, 4 }); // 5
+            task12Result = ArraysQuestions.Task12BestTimeToBuyAndSellStock.Do(new int[] { 7, 6, 4, 3, 1 }); // 0
+            task12Result = ArraysQuestions.Task12BestTimeToBuyAndSellStock.Do(new int[] { }); // 0
+            task12Result = ArraysQuestions.Task12BestTimeToBuyAndSellStock.Do(new int[] { 1 }); // 0
+            task12Result = ArraysQuestions.Task12BestTimeToBuyAndSellStock.Do(new int[] { 2, 4, 1 });
+
             #region Sorting Algorithms
 
             // Bubble Sort
