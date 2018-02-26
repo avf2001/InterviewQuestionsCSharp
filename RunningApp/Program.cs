@@ -36,8 +36,10 @@ namespace RunningApp
             //var task08Result = ArraysQuestions.Task08PlusOne.Do(new int[] { 9, 8, 9 });
 
             // Pascal's Triangle
-            var task10Result = ArraysQuestions.Task10PascalsTriangle.Do(0);
+            
+            var task10Result = ArraysQuestions.Task10PascalsTriangle.Do(5);
 
+            /*
             foreach (var a in task10Result)
             {
                 Console.Write("[");
@@ -53,6 +55,10 @@ namespace RunningApp
 
                 Console.WriteLine("]");
             }
+            */
+
+            // Pascal's Triangle 2
+            var task11Result = ArraysQuestions.Task11PascalsTriangle2.Do(4);
 
             #region Sorting Algorithms
 
