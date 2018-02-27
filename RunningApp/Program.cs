@@ -35,9 +35,8 @@ namespace RunningApp
             // Plus One
             //var task08Result = ArraysQuestions.Task08PlusOne.Do(new int[] { 9, 8, 9 });
 
-            // Pascal's Triangle
-            
-            var task10Result = ArraysQuestions.Task10PascalsTriangle.Do(5);
+            // Pascal's Triangle            
+            //var task10Result = ArraysQuestions.Task10PascalsTriangle.Do(5);
 
             /*
             foreach (var a in task10Result)
@@ -65,7 +64,14 @@ namespace RunningApp
             task12Result = ArraysQuestions.Task12BestTimeToBuyAndSellStock.Do(new int[] { 7, 6, 4, 3, 1 }); // 0
             task12Result = ArraysQuestions.Task12BestTimeToBuyAndSellStock.Do(new int[] { }); // 0
             task12Result = ArraysQuestions.Task12BestTimeToBuyAndSellStock.Do(new int[] { 1 }); // 0
-            task12Result = ArraysQuestions.Task12BestTimeToBuyAndSellStock.Do(new int[] { 2, 4, 1 });
+            task12Result = ArraysQuestions.Task12BestTimeToBuyAndSellStock.Do(new int[] { 2, 4, 1 }); // 2
+
+            // Best Time to Buy and Sell Stock 2
+            var task13Result = ArraysQuestions.Task13BestTimeToBuyAndSellStock2.Do(new int[] { 7, 1, 5, 3, 6, 4 }); // 7
+            task13Result = ArraysQuestions.Task13BestTimeToBuyAndSellStock2.Do(new int[] { 7, 6, 4, 3, 1 }); // 0
+            task13Result = ArraysQuestions.Task13BestTimeToBuyAndSellStock2.Do(new int[] { }); // 0
+            task13Result = ArraysQuestions.Task13BestTimeToBuyAndSellStock2.Do(new int[] { 1 }); // 0
+            task13Result = ArraysQuestions.Task13BestTimeToBuyAndSellStock2.Do(new int[] { 2, 4, 1 }); // 2
 
             #region Sorting Algorithms
 
