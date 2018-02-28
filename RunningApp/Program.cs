@@ -73,6 +73,12 @@ namespace RunningApp
             task13Result = ArraysQuestions.Task13BestTimeToBuyAndSellStock2.Do(new int[] { 1 }); // 0
             task13Result = ArraysQuestions.Task13BestTimeToBuyAndSellStock2.Do(new int[] { 2, 4, 1 }); // 2
 
+            // Two Sum 2
+            var task14Result = ArraysQuestions.Task14TwoSum2.Do(new int[] { 2, 7, 11, 15 }, 9);
+            task14Result = ArraysQuestions.Task14TwoSum2.Do2(new int[] { 2, 7, 11, 15 }, 9);
+
+
+
             #region Sorting Algorithms
 
             // Bubble Sort
