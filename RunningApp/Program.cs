@@ -77,7 +77,8 @@ namespace RunningApp
             var task14Result = ArraysQuestions.Task14TwoSum2.Do(new int[] { 2, 7, 11, 15 }, 9);
             task14Result = ArraysQuestions.Task14TwoSum2.Do2(new int[] { 2, 7, 11, 15 }, 9);
 
-
+            // Majoruty Element
+            var task15Result = ArraysQuestions.Task15MajorityElement.Do(new int[] { 2, 7, 11, 15 });
 
             #region Sorting Algorithms
 
