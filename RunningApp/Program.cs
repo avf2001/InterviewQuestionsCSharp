@@ -80,6 +80,8 @@ namespace RunningApp
             // Majoruty Element
             var task15Result = ArraysQuestions.Task15MajorityElement.Do(new int[] { 2, 7, 11, 15 });
 
+            var task19Result = ArraysQuestions.Task19MissingNumber.Do(new int[] { 3, 0, 1 });
+
             #region Sorting Algorithms
 
             // Bubble Sort
