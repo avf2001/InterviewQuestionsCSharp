@@ -82,6 +82,9 @@ namespace RunningApp
 
             var task19Result = ArraysQuestions.Task19MissingNumber.Do(new int[] { 3, 0, 1 });
 
+            var task20InputArray = new int[] { 0, 1, 0, 3, 12 };            
+            ArraysQuestions.Task20MoveZeroes.Do(task20InputArray);
+
             #region Sorting Algorithms
 
             // Bubble Sort
