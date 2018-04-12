@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortingAlgorithms", "Sortin
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", "{B0FD68B3-EB64-409F-89E1-C72709560FB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayQuestionsUnitTests", "ArrayQuestionsUnitTests\ArrayQuestionsUnitTests.csproj", "{028CC509-375E-4E20-9891-5A501F1CBADC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayQuestionsUnitTests", "ArrayQuestionsUnitTests\ArrayQuestionsUnitTests.csproj", "{028CC509-375E-4E20-9891-5A501F1CBADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathsQuestions", "MathsQuestions\MathsQuestions.csproj", "{AB376D84-C7A0-4D17-BC8E-C7A52ADA903C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{028CC509-375E-4E20-9891-5A501F1CBADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{028CC509-375E-4E20-9891-5A501F1CBADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{028CC509-375E-4E20-9891-5A501F1CBADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB376D84-C7A0-4D17-BC8E-C7A52ADA903C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB376D84-C7A0-4D17-BC8E-C7A52ADA903C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB376D84-C7A0-4D17-BC8E-C7A52ADA903C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB376D84-C7A0-4D17-BC8E-C7A52ADA903C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

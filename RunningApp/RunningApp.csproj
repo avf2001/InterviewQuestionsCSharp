@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ArraysQuestions\ArraysQuestions.csproj" />
+    <ProjectReference Include="..\MathsQuestions\MathsQuestions.csproj" />
     <ProjectReference Include="..\SortingAlgorithms\SortingAlgorithms.csproj" />
   </ItemGroup>
 </Project>

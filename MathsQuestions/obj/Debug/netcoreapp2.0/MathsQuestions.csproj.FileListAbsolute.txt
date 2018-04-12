@@ -1,0 +1,9 @@
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\MathsQuestions\bin\Debug\netcoreapp2.0\MathsQuestions.deps.json
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\MathsQuestions\bin\Debug\netcoreapp2.0\MathsQuestions.dll
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\MathsQuestions\bin\Debug\netcoreapp2.0\MathsQuestions.pdb
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\MathsQuestions\obj\Debug\netcoreapp2.0\MathsQuestions.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\MathsQuestions\obj\Debug\netcoreapp2.0\MathsQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\MathsQuestions\obj\Debug\netcoreapp2.0\MathsQuestions.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\MathsQuestions\obj\Debug\netcoreapp2.0\MathsQuestions.AssemblyInfo.cs
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\MathsQuestions\obj\Debug\netcoreapp2.0\MathsQuestions.dll
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\MathsQuestions\obj\Debug\netcoreapp2.0\MathsQuestions.pdb

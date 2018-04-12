@@ -97,6 +97,13 @@ namespace RunningApp
             //CountingSort.Do(ref arr);
 
             #endregion
+
+            #region Maths Questions
+
+            // Не решено
+            var mtask01Result = MathsQuestions.Task01A3B3C3D3.Do(1000);
+            
+            #endregion
         }
     }
 }
