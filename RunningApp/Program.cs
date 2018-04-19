@@ -101,9 +101,12 @@ namespace RunningApp
             #region Maths Questions
 
             // Не решено
-            var mtask01Result = MathsQuestions.Task01A3B3C3D3.Do(1000);
-            
+            //var mtask01Result = MathsQuestions.Task01A3B3C3D3.Do(1000);
+
             #endregion
+
+            var stask02Result1 = StringQuestions.Task02CheckPermutation.Do1("aabbbb", "bbbaaa");
+            var stask02Result2 = StringQuestions.Task02CheckPermutation.Do2("aaabbb", "bbbaaa");
         }
     }
 }

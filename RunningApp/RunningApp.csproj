@@ -9,5 +9,6 @@
     <ProjectReference Include="..\ArraysQuestions\ArraysQuestions.csproj" />
     <ProjectReference Include="..\MathsQuestions\MathsQuestions.csproj" />
     <ProjectReference Include="..\SortingAlgorithms\SortingAlgorithms.csproj" />
+    <ProjectReference Include="..\StringQuestions\StringQuestions.csproj" />
   </ItemGroup>
 </Project>

@@ -1,0 +1,9 @@
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\StringQuestions\bin\Debug\netcoreapp2.0\StringQuestions.deps.json
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\StringQuestions\bin\Debug\netcoreapp2.0\StringQuestions.dll
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\StringQuestions\bin\Debug\netcoreapp2.0\StringQuestions.pdb
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\StringQuestions\obj\Debug\netcoreapp2.0\StringQuestions.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\StringQuestions\obj\Debug\netcoreapp2.0\StringQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\StringQuestions\obj\Debug\netcoreapp2.0\StringQuestions.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\StringQuestions\obj\Debug\netcoreapp2.0\StringQuestions.AssemblyInfo.cs
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\StringQuestions\obj\Debug\netcoreapp2.0\StringQuestions.dll
+C:\Users\Alexander\Documents\GitHub\InterviewQuestionsCSharp\StringQuestions\obj\Debug\netcoreapp2.0\StringQuestions.pdb
