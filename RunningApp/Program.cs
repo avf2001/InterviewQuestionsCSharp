@@ -109,6 +109,8 @@ namespace RunningApp
             var stask02Result2 = StringQuestions.Task02CheckPermutation.Do2("aaabbb", "bbbaaa");
 
             var stask03Result = StringQuestions.Task03URLify.Do("Mr John Smith");
+
+            var task06Result = StringQuestions.Task06StringCompression.Do("aabcccccaaa");
         }
     }
 }
