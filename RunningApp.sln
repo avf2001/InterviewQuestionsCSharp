@@ -13,9 +13,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayQuestionsUnitTests", "ArrayQuestionsUnitTests\ArrayQuestionsUnitTests.csproj", "{028CC509-375E-4E20-9891-5A501F1CBADC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathsQuestions", "MathsQuestions\MathsQuestions.csproj", "{AB376D84-C7A0-4D17-BC8E-C7A52ADA903C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathsQuestions", "MathsQuestions\MathsQuestions.csproj", "{AB376D84-C7A0-4D17-BC8E-C7A52ADA903C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringQuestions", "StringQuestions\StringQuestions.csproj", "{0A80178F-9665-4391-8D95-F7F9AD284150}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringQuestions", "StringQuestions\StringQuestions.csproj", "{0A80178F-9665-4391-8D95-F7F9AD284150}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListQuestions", "LinkedListQuestions\LinkedListQuestions.csproj", "{0150FEFF-8B37-45BC-BBE9-6F5558B97366}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +49,10 @@ Global
 		{0A80178F-9665-4391-8D95-F7F9AD284150}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A80178F-9665-4391-8D95-F7F9AD284150}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A80178F-9665-4391-8D95-F7F9AD284150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0150FEFF-8B37-45BC-BBE9-6F5558B97366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0150FEFF-8B37-45BC-BBE9-6F5558B97366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0150FEFF-8B37-45BC-BBE9-6F5558B97366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0150FEFF-8B37-45BC-BBE9-6F5558B97366}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

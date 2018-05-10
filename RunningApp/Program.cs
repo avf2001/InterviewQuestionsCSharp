@@ -7,6 +7,8 @@ namespace RunningApp
     {
         static void Main(string[] args)
         {
+            #region Array Questions
+
             int[] arr = { 6, 4, 1, 4, 3, 2, 5, 2, 1 };
 
             /*
@@ -85,6 +87,11 @@ namespace RunningApp
             var task20InputArray = new int[] { 0, 1, 0, 3, 12 };            
             ArraysQuestions.Task20MoveZeroes.Do(task20InputArray);
 
+            var matrix1 = new int[,] { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
+            ArraysQuestions.Task24RotateMatrix.Do(matrix1);
+            
+            #endregion
+
             #region Sorting Algorithms
 
             // Bubble Sort
@@ -105,12 +112,16 @@ namespace RunningApp
 
             #endregion
 
+            #region String Questions
+
             var stask02Result1 = StringQuestions.Task02CheckPermutation.Do1("aabbbb", "bbbaaa");
             var stask02Result2 = StringQuestions.Task02CheckPermutation.Do2("aaabbb", "bbbaaa");
 
             var stask03Result = StringQuestions.Task03URLify.Do("Mr John Smith");
 
             var task06Result = StringQuestions.Task06StringCompression.Do("aabcccccaaa");
+
+            #endregion
         }
     }
 }
