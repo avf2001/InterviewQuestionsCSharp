@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace LinkedListQuestions
+﻿namespace LinkedListQuestions
 {
     /*
      * Delete Middle Node
@@ -16,6 +12,8 @@ namespace LinkedListQuestions
      * Result: nothing is returned, but the new linked list looks like a ->b->d- >e- >f
      * 
      * Cracking the Coding Interview, p. 94, 2.3
+     * or
+     * https://leetcode.com/problems/delete-node-in-a-linked-list
      */
     public class Task03DeleteMiddleNode
     {

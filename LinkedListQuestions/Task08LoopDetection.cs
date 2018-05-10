@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace LinkedListQuestions
+﻿namespace LinkedListQuestions
 {
     /*
      * Loop Detection
@@ -16,8 +12,10 @@ namespace LinkedListQuestions
      * Output: C
      * 
      * Cracking the Coding Interview, p. 95, 2.8
+     * or
+     * https://leetcode.com/problems/linked-list-cycle
      */
-    class Task08LoopDetection
+    public class Task08LoopDetection
     {
     }
 }
