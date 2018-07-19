@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackQuestions", "StackQues
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphTreeQuestions", "GraphTreeQuestions\GraphTreeQuestions.csproj", "{E0E59653-830A-4D2D-8C45-B3C298EB55A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionQuestions", "RecursionQuestions\RecursionQuestions.csproj", "{CB544537-8F75-4CC1-965E-3C2D75E41989}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +67,10 @@ Global
 		{E0E59653-830A-4D2D-8C45-B3C298EB55A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0E59653-830A-4D2D-8C45-B3C298EB55A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0E59653-830A-4D2D-8C45-B3C298EB55A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB544537-8F75-4CC1-965E-3C2D75E41989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB544537-8F75-4CC1-965E-3C2D75E41989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB544537-8F75-4CC1-965E-3C2D75E41989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB544537-8F75-4CC1-965E-3C2D75E41989}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
