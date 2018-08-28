@@ -1,7 +1,7 @@
 ﻿namespace LinkedListQuestions
 {
     /*
-     * Delete Middle Node
+     * Delete Node
      * 
      * Implement an algorithm to delete a node in the middle
      * (i.e., any node but the first and last node, not necessarily the exact middle) 
@@ -15,7 +15,7 @@
      * or
      * https://leetcode.com/problems/delete-node-in-a-linked-list
      */
-    public class Task03DeleteMiddleNode
+    public class Task03DeleteNode
     {
         /* 
          * In this problem, you are not given access to the head of the linked list.
