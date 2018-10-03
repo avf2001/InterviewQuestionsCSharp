@@ -8,6 +8,15 @@ namespace ArraysQuestions
     * Given a non-negative integer numRows, generate the first numRows of Pascal's triangle.
     *
     * https://leetcode.com/problems/pascals-triangle/description/
+    * Input: 5
+    * Output:
+    * [
+    *     [1],
+    *    [1,1],
+    *   [1,2,1],
+    *  [1,3,3,1],
+    * [1,4,6,4,1]
+    * ]
     */
     public class Task10PascalsTriangle
     {        
