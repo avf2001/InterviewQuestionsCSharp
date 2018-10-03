@@ -1,13 +1,22 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 
 namespace ArraysQuestions
 {
+    /*
+    * Pascal's Triangle
+    * 
+    * Given a non-negative integer numRows, generate the first numRows of Pascal's triangle.
+    *
+    * https://leetcode.com/problems/pascals-triangle/description/
+    */
     public class Task10PascalsTriangle
-    {
+    {        
         public static IList<IList<int>> Do(int numRows)
         {
+            // Инициализируем переменную результата
             var result = new List<IList<int>>();
 
+            // Проверяем входной параметр
             if (numRows == 0) return result;
 
             result.Add(new List<int>() { 1 });
